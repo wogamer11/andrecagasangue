@@ -1,9 +1,13 @@
-body {
-    color:white;
-    background: red;
+/* código omitido */
 
+section {
+    background: rgb(184,156,213);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
 }
-header{
-    border: solid 2x rgb(red, green, blue);
 
+.chamada-texto {
+    margin-right: 5%;
 }

@@ -13,3 +13,6 @@ section {
 body{
     background-color: rgb(165, 8, 8);
 }
+header{
+    border:solid 3px black;
+}
